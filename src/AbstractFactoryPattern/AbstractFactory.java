@@ -1,5 +1,8 @@
 package AbstractFactoryPattern;
-
+/**
+ * @Program AbstractFactoryPattern 创建型模式
+ * @Arthor YaeSaraki
+ */
 public class AbstractFactory {
   public static void main(String[] args) {
     Factory factory1 = new Factory1();

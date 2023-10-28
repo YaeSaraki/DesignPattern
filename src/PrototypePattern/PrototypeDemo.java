@@ -1,5 +1,8 @@
 package PrototypePattern;
-
+/**
+ * @Program PrototypeParrern 创建型模式
+ * @Arthor YaeSaraki
+ */
 public class PrototypeDemo {
   public static void main(String[] args) {
     Product product1 = new Product(2023, 10.28);

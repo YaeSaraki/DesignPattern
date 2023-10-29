@@ -7,7 +7,9 @@ public class Folder extends AbstractFile {
   private final List<AbstractFile> fileList = new ArrayList<>();
   public Folder(String name) { this.name = name; }
   @Override
-  public boolean add(AbstractFile abstractFile) { return fileList.add(abstractFile); }
+  public boolean add(AbstractFile abstractFile) {
+    return fileList.add(abstractFile);
+  }
   @Override
   public boolean delete(AbstractFile abstractFile) { return fileList.remove(abstractFile); }
   @Override

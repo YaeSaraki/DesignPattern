@@ -1,6 +1,6 @@
 package BuilderPattern;
 /**
- * @Program BuilderPattern 创建型模式
+ * @Program BuilderPattern 构造型模式
  * @Arthor YaeSaraki
  * @Function {
  *   1. 当创建复杂对象的 *算法应该独立* 于该对象的组成部分以及他们的装配时

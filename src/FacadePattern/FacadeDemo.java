@@ -5,10 +5,10 @@ package FacadePattern;
  * @Author YaeSaraki
  */
 public class FacadeDemo {
-    public static void main(String[] args) {
-        Facade facade = new Facade();
-        facade.methodA();
-        facade.methodB();
-        facade.methodC();
-    }
+  public static void main(String[] args) {
+    Facade facade = new Facade();
+    facade.methodA();
+    facade.methodB();
+    facade.methodC();
+  }
 }

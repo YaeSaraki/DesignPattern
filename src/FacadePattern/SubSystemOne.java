@@ -1,5 +1,5 @@
 package FacadePattern;
 
 public class SubSystemOne {
-    public void methodOne() { System.out.println("method one"); }
+  public void methodOne() { System.out.println("method one"); }
 }

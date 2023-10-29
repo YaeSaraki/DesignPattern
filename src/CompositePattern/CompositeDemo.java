@@ -1,10 +1,11 @@
 package CompositePattern;
-/**
- * @Program CompositePattern 构造型
- * @Author YaeSaraki
- */
+
 import java.util.List;
 
+/**
+ * @Program CompositePattern 结构型模式
+ * @Author YaeSaraki
+ */
 public class CompositeDemo {
   public static void main(String[] args) {
     AbstractFile root = new Folder("root");
